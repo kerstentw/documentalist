@@ -1,0 +1,16 @@
+
+sol_func = """
+function %s(){
+
+
+}
+"""
+
+sol_struct = """
+
+
+"""
+
+
+
+solidity_frames = []

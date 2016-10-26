@@ -1,0 +1,32 @@
+$def with (content)
+<html>
+
+<head>
+
+</head>
+
+
+<body>
+
+<form action = "/" method = "POST">
+
+title: <input name = "title" type = "text">
+
+<br/>
+<textarea name = "user_txt" placeholder = "Add your text for submission here">
+
+</textarea>
+
+<input type = "submit">
+</form>
+
+<textarea readonly>
+
+$:content
+
+</textarea>
+
+<body>
+
+
+</html>

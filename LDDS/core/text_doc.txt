@@ -1,0 +1,16 @@
+Personal Loan Contract
+
+
+This contract ("Contract") is an agreement between {Name}, henceforth known as "Borrower," and {Name}, henceforth known as "Lender."
+
+Borrower wishes to borrow {amount in dollars}, known as "Loan," from Lender. Loan will be furnished to Borrower on {Date}.
+
+
+Conditions for this Loan are as follows:
+
+Borrower will begin repayment of Loan on {Date repayment will begin}.
+The repayment plan {details of the repayment plan, including any installments, interest, and how payments will be made to Lender}.
+The final date for repayment will be {Date}.
+Failure to repay the Loan within {number of days} of {Date} will result in the matter	{being turned over to collection, addressed in court, etc.}.
+
+Borrower and Lender agree to the conditions above, and sign to that effect in the presence of a notary public on the {date} day of	{month}, {year}.
